@@ -82,4 +82,4 @@ tieba.py
 [更多python知识学习，尽在方包博客---www.fang1688.cn](http://www.fang1688.cn)
 
 ![关注公众号“优派编程”，搜索关键字获取更多学习资料](https://www.fang1688.cn/wp-content/uploads/2020/07/qrcode_for_gh_1fd2e4a34038_258.jpg)
-<strong><center>关注公众号“优派编程”，搜索关键字获取更多学习资料</center></strong>
+<strong>关注公众号“优派编程”，搜索关键字获取更多学习资料</strong>
